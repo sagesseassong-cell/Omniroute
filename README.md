@@ -1,1 +1,1 @@
-# Omniroute
+Installe OmniRoute pour moi (le dépôt : github.com/diegosouzapw/OmniRoute). Vérifie d'abord que j'ai Node 22 ou plus, installe le avec npm, lance le, puis guide moi étape par étape pour brancher des fournisseurs gratuits dans son tableau de bord. Ne branche jamais mon compte Claude comme fournisseur. Quand c'est prêt, vérifie que les modèles répondent, puis crée moi une commande courte, "claude-free", qui lance Claude Code à travers OmniRoute avec le modèle auto. Explique moi chaque étape simplement.
